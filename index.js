@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BLACK DRAGON'; 
+const BotName = 'BLACK DRAGON🐉'; 
 const instagram = 'https://instagram.com/story.anime'; 
 const telegram = '-'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
